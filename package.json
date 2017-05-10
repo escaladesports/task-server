@@ -1,0 +1,12 @@
+{
+  "name": "task-server",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/escaladesports/task-server.git",
+  "author": "Kennedy Rose <krose@escaladesports.com> (https://escaladesports.com)",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "nodemon": "^1.11.0"
+  }
+}
